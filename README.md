@@ -1,7 +1,7 @@
 BTSimpleRippleButton
 ====================
 
-This is a custom button for iOS with Ripple effect. It is simple to integrate & customizable component. Suppors callback using blocks.
+This is a custom button for iOS with Ripple effect. It is simple to integrate & customizable component. Supports call back using blocks.
 
 <img src="https://raw.githubusercontent.com/balram3429/btSimpleRippleButton/master/btSimpleRippleButton/images/raw/btSimpleRippleButtonTwo.png" alt="btSimpleRippleButton Screenshot" width="208" height="369" /> . <img src="https://raw.githubusercontent.com/balram3429/btSimpleRippleButton/master/btSimpleRippleButton/images/raw/btSimpleRippleButtonThree.png" alt="btSimpleRippleButton Screenshot" width="208" height="369" /> . <img src="https://raw.githubusercontent.com/balram3429/btSimpleRippleButton/master/btSimpleRippleButton/images/raw/btSimpleRippleButtonFour.png" alt="btSimpleRippleButton Screenshot" width="208" height="369" />
 
@@ -14,9 +14,9 @@ This is a custom button for iOS with Ripple effect. It is simple to integrate & 
 ## Demo
 Build and run the `BTSimpleRippleButton` project in Xcode to see `BTRippleButtton` in action.
 
-## Installation
+## Installation process
   1. Drag the file `btRippleButtton.h / btRippleButtton.m ` to your project. Alternatively you can add the folder `btRippleButton` to your project.
-  2. Maken an import statement for the file as `#import"BTRippleButtton.h"` .
+  2. Make an import statement for the file as `#import"BTRippleButtton.h"` .
   3. Add to your project the `QuartzCore framework` make an import statement for it.
 
 
